@@ -19,12 +19,12 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on: **Your current project**
-- 🌱 Learning: **Technologies you're learning**
-- 👯 Looking to collaborate on: **What you want to work on**
-- 💬 Ask me about: **Your expertise areas**
+- 🔭 Currently working on: **Automating business processes and building performant web solutions**
+- 🌱 Learning: **Microservices architecture, DevOps practices, and cloud-native development**
+- 👯 Looking to collaborate on: **SaaS products, developer tools, and automation projects**
+- 💬 Ask me about: **React/Next.js, Node.js/NestJS, database optimization, and CI/CD pipelines**
 - 📫 How to reach me: **adoyiowoicho@gmail.com**
-- ⚡ Fun fact: **Liverpoolfc & Fc Barcelona fan**
+- ⚡ Fun fact: **Liverpool FC & FC Barcelona fan - I debug code like Salah dribbles past defenders!**
 
 ## 🛠️ Tech Stack
 
@@ -73,5 +73,5 @@
 
 ---
 <div align="center">
-  <i>⭐️ From adoyi10(https://github.com/adoyi106)</i>
+  <i>⭐️ From adoyi106(https://github.com/adoyi106)</i>
 </div>
